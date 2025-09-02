@@ -2,6 +2,7 @@ def main():
     print("Supermarket")
     print("===========")
 
+
     # List of product prices
     prices = [10, 14, 22, 33, 44, 13, 22, 55, 66, 77]
     total = 0
